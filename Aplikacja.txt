@@ -1,0 +1,2 @@
+podaj nazwe urzytkownika
+Podaj poprawne haslo urzytkownika
