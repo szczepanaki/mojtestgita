@@ -1,2 +1,5 @@
-podaj nazwe urzytkownika
-Podaj tylko poprawne haslo urzytkownika
+   public void logowanie() {
+        System.out.println("Podaj nazwe użytkownika");
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
