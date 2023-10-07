@@ -1,3 +1,4 @@
+<<<<<<< HEAD
    public void logowanie() {
         System.out.println("Podaj nazwe użytkownika");
         System.out.println("Podaj jakies hasło");
@@ -5,3 +6,15 @@
     }
 	zmiana bez sensu
 	
+=======
+	public void logowanie() {
+		System.out.println("podaj nazwe uzytkownika");
+		System.out.println("podaj haslo");
+		System.out.println("Kliknij na przycisk zaloguj"');
+	}
+	
+	public void logowanieGoogle() }
+		System.out.println("podaj nazwe uzytkownika Gmail");
+		System.out.println("podaj haslo");
+		System.out.println("Kliknij na przycisk zaloguj"');
+>>>>>>> klient101
