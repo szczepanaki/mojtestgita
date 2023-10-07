@@ -1,2 +1,10 @@
-podaj nazwe urzytkownika
-Podaj tylko poprawne haslo urzytkownika
+	public void logowanie() {
+		System.out.println("podaj nazwe uzytkownika");
+		System.out.println("podaj haslo");
+		System.out.println("Kliknij na przycisk zaloguj"');
+	}
+	
+	public void logowanieGoogle() }
+		System.out.println("podaj nazwe uzytkownika Gmail");
+		System.out.println("podaj haslo");
+		System.out.println("Kliknij na przycisk zaloguj"');
