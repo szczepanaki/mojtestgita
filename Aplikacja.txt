@@ -3,5 +3,8 @@
         System.out.println("Podaj jakies hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
-	zmiana bez sensu
-	
+	 public void logowanie() {
+        System.out.println("Podaj nazwe użytkownika Microsoft");
+        System.out.println("Podaj jakies hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+	}
