@@ -17,4 +17,7 @@
 	public void przypomnij_haslo() {
 		System.out.println("Kliknij na przycisk przypomnj haslo");
 		}
+
+		Hello World
+
 		
